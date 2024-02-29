@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrislramsey
-- 👀 I’m interested in ... programming languages, grapics libraries, and linux desktops.
+- 👀 I’m interested in ... programming languages, graphics libraries, and linux desktops.
 - 🌱 I’m currently learning ... graphics algorithims
 - 💞️ I’m looking to collaborate on ... gui toolkits.
 - 📫 How to reach me ... don't
