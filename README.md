@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... graphics algorithims
 - 💞️ I’m looking to collaborate on ... gui toolkits.
 - 📫 How to reach me ... don't
-- 😄 Pronouns: ... graphics, algorithims, language runtimes.
+- 😄 Nouns: ... graphics, algorithims, language runtimes.
 - ⚡ Fun fact: ... I like coneys and pizza 🤪.
 
 <!---
