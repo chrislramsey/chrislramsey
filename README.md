@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chrislramsey
-- 👀 I’m interested in ... programming languages, graphics libraries, and linux desktops.
-- 🌱 I’m currently learning ... algorithims, techniques, ideas for programming language features, eventloops, and APIs.
+- 👀 I’m interested in ... programming languages, graphics libraries, operating systems from scratch, and linux desktops.
+- 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language features, eventloops, and APIs.
 - 💞️ I’m looking to collaborate on ... none (I'm not really a master.).
 - 📫 How to reach me ... don't
-- 😄 Nouns: ... graphics, desktops, algorithims, language runtimes.
+- 😄 Nouns: ... graphics, desktops, algorithims, language runtimes, UNIX, operating systems.
 - ⚡ Fun fact: ... I like coneys and pizza 🤪.
 
 <!---
