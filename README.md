@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrislramsey
-- 👀 I’m interested in ... programming languages, graphics libraries, operating systems from scratch, and linux desktops.
+- 👀 I’m interested in ... programming languages, graphics libraries, AV (audio/video algorithms, software), operating systems from scratch, and linux desktops.
 - 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language features, eventloops, kernels (OS etc.), and APIs.
 - 💞️ I’m looking to collaborate on ... I'm only interested in my own projects.
 - 📫 How to reach me ... 🤮 don't.
