@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language and desktop features, eventloops, kernels (OS, etc.), and APIs.
 - 💞️ I’m looking to collaborate on ... *none*.
 - 📫 How to reach me ... 🤮 don't.
-- 😄 Nouns: ... graphics, desktops, video games, 3D, algorithms, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems.
+- 😄 Nouns: ... khronos (opengl), graphics, desktops, video games, 3D, algorithms, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems.
 - ⚡ Fun fact: ... I like coneys and pizza 🤪.
 
 <!---
