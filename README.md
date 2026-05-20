@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language and desktop features, eventloops, kernels (OS, etc.), applications, network protocols, and APIs.
 - 💞️ I’m looking to collaborate on ... *none*.
 - 📫 How to reach me ... 🤮 don't.
-- 😄 Nouns: ... video: vlc/mpv, algorithims, media network streaming protocols; khronos: opengl, opencl, openvg, vulkan; graphics, graphics pipelines, desktops, video games, algorithms, markup languages, literate javascript, software architexture, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems.
+- 😄 Nouns: ... video: vlc/mpv, algorithms, media network streaming protocols; khronos: opengl, opencl, openvg, vulkan; graphics, graphics pipelines, desktops, video games, algorithms, markup languages, literate javascript, software architecture, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems.
 - ⚡ Fun fact: ... I like coneys and pizza 🤪.
 
 <!---
