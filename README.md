@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... *none*.
 - 📫 How to reach me ... 🤮 don't.
 - 😄 Nouns: ... video, vlc/mpv, network streaming protocols, khronos, opengl, opencl, openvg, vulkan, graphics, graphics pipelines, desktops, widget toolkits, drawing and widget libraries, video games, algorithms, markup languages, literate javascript, firefox, ladybird browser, software architecture, SVG, AppImage, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems.
-- ⚡ Fun fact: ... I like coneys and pizza 🤪.
+- ⚡ Fun fact: ... I like coneys, pizza, and comics 🤪.
 
 <!---
 chrislramsey/chrislramsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
