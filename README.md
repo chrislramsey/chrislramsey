@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chrislramsey
-- 👀 I’m interested in ... programming languages, graphics libraries, text editors, markup languages, AV (audio/video algorithms, software), operating systems from scratch, desktops, tiling/dynamic window managers, console and desktop applications, themes and colorschemes (console and gui, text editors, terminals and gui application interfaces).
+- 👀 I’m interested in ... programming languages, graphics libraries, game development, text editors, markup languages, AV (audio/video algorithms, software), web browsers, javascript & javascript APIs, operating systems from scratch, desktops, tiling/dynamic window managers, console and desktop applications, themes and colorschemes (console and gui, text editors, terminals and gui application interfaces), and package managers and installers.
 - 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language and desktop features, eventloops, kernels (OS, etc.), applications, network protocols, and APIs.
 - 💞️ I’m looking to collaborate on ... *none*.
 - 📫 How to reach me ... 🤮 don't.
-- 😄 Nouns: ... video, vlc/mpv, network streaming protocols, khronos, opengl, opencl, openvg, vulkan, graphics, graphics pipelines, desktops, widget toolkits, drawing and widget libraries, video games, algorithms, markup languages, literate javascript, software architecture, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems.
+- 😄 Nouns: ... video, vlc/mpv, network streaming protocols, khronos, opengl, opencl, openvg, vulkan, graphics, graphics pipelines, desktops, widget toolkits, drawing and widget libraries, video games, algorithms, markup languages, literate javascript, firefox, ladybird browser, software architecture, SVG, AppImage, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems.
 - ⚡ Fun fact: ... I like coneys and pizza 🤪.
 
 <!---
