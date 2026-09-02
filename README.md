@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chrislramsey
-- 👀 I’m interested in ... programming languages, graphics libraries, game development, file daemons, bittorent, FTP, IETF RFCs, text editors, markup languages, AV (audio/video algorithms, software), web browsers, java & the JDK, C#, javascript & javascript APIs, C, C++, Objective C, Go, operating systems from scratch, desktops, computer and device connectivity, chat and communication protocols and software, tiling/dynamic window managers, console and desktop applications, themes and colorschemes (console and gui, text editors, terminals and gui application interfaces), package managers and installers, assembly & CPU manuals, disk volumes, hardware drivers.
+- 👀 I’m interested in ... programming languages, console application development, game development, file compression algorithims, shell and desktop environment scripting.
 - 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language and desktop features, eventloops, kernels (OS, etc.), applications, network protocols, and APIs.
 - 💞️ I’m looking to collaborate on ... *none*.
 - 📫 How to reach me ... 🤮 don't.
-- 😄 Nouns ... video, vlc, mpv, libuv, network streaming protocols, khronos, opengl, opencl, openvg, vulkan, graphics, graphics pipelines, serial ports, remote "terminals", "downloaders", ftp, ssh, bittorent, putty, tty, tcp based protocols, rtsp, xmpp, telephony, desktops, widget toolkits, drawing and widget libraries, .iso, aria2, video games, algorithms, markup languages, literate javascript, firefox, ladybird browser, software architecture, SVG, AppImage, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems, APIs.
+- 😄 Nouns ... x86 intrinsics, video, vlc, mpv, libuv, network streaming protocols, khronos, opengl, opencl, openvg, vulkan, graphics, graphics pipelines, serial ports, remote "terminals", "downloaders", ftp, ssh, bittorent, IETF RFCs, putty, tty, tcp based protocols, rtsp, XMPP, telephony, desktops, widget toolkits, enviroment drawing and widget libraries, .iso, aria2, video games, algorithms, markup languages, literate javascript, firefox, ladybird browser, software architecture, SVG, AppImage, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems, APIs.
 - ⚡ Fun fact: ... I like coneys, pizza, and comics 🤪.
 
 <!---
