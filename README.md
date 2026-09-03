@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language and desktop features, eventloops, kernels (OS, etc.), applications, network protocols, and APIs.
 - 💞️ I’m looking to collaborate on ... *none*.
 - 📫 How to reach me ... 🤮 don't.
-- 😄 Nouns ... x86 intrinsics, video, vlc, mpv, libuv, deflate, network streaming protocols, virtual file system, volumes, khronos, opengl, opencl, openvg, vulkan, graphics, graphics pipelines, serial ports, remote "terminals", "downloaders", ftp, ssh, bittorent, IETF RFCs, putty, tty, tcp based protocols, rtsp, XMPP, telephony, desktops, widget toolkits, enviroment drawing and widget libraries, .zip, .iso, aria2, video games, algorithms, markup languages, literate javascript, firefox, ladybird browser, software architecture, SVG, AppImage, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems, APIs.
+- 😄 Nouns ... x86 intrinsics, video, vlc, mpv, libuv, dnf, apt, deflate, network streaming protocols, virtual file system, volumes, khronos, opengl, opencl, openvg, vulkan, graphics, graphics pipelines, serial ports, remote "terminals", "downloaders", ftp, ssh, bittorent, IETF RFCs, putty, tty, tcp based protocols, rtsp, XMPP, telephony, desktops, widget toolkits, enviroment drawing and widget libraries, .zip, .iso, aria2, video games, algorithms, markup languages, literate javascript, firefox, ladybird browser, software architecture, SVG, AppImage, language runtimes, UNIX, SUS (Single UNIX Specification), operating systems, APIs.
 - ⚡ Fun fact: ... I like coneys, pizza, and comics 🤪.
 
 <!---
