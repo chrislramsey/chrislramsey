@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrislramsey
-- 👀 I’m interested in ... programming languages, console application development, game development, file compression algorithims, shell and desktop environment scripting.
+- 👀 I’m interested in ... programming languages, console application development, game development, file compression algorithims, media application development, shell and desktop (and GUI) development.
 - 🌱 I’m currently learning ... algorithms, techniques, ideas for programming language and desktop features, eventloops, kernels (OS, etc.), applications, network protocols, and APIs.
 - 💞️ I’m looking to collaborate on ... *none*.
 - 📫 How to reach me ... 🤮 don't.
